@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/fab_margin"
+    tools:context="com.lzp.attributeanimation.meau_activity">
+
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/image_b"
+    android:src="@drawable/b"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image_c"
+        android:src="@drawable/c"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        />
+    <ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/image_d"
+    android:src="@drawable/d"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    />
+    <ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/image_e"
+    android:src="@drawable/e"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    />
+    <ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/image_f"
+    android:src="@drawable/f"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    /><ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/image_g"
+    android:src="@drawable/g"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    />
+    <ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/image_h"
+    android:src="@drawable/h"
+    android:paddingLeft="5dp"
+    android:paddingTop="5dp"
+    />
+    <!-- 最后一个 -->
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image_a"
+        android:src="@drawable/a"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        />
+
+
+
+
+
+
+
+
+
+
+
+
+</FrameLayout>
